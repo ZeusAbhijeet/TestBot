@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Example.py
+cogs/example.py
+cogs/example.py
